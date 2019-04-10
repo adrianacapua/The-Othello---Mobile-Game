@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Othello</string>
+    <string name="header">header</string>
+    <string name="textor">textOr</string>
+    <string name="oneplayeroption_banner">oneplayeroption_banner</string>
+    <string name="oneplayeroption_brownbg">oneplayeroption_brownbg</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="difficult">Difficult</string>
+    <string name="twoplayersoption_brownbg">twoplayersoption_brownbg</string>
+    <string name="twoplayersoption_banner">twoplayersoption_banner</string>
+    <string name="vs">vs</string>
+    <string name="messageForPlayerOne">message</string>
+    <string name="PlayerOneName">Name</string>
+    <string name="messageForPlayerTwo">message</string>
+    <string name="PlayerOneScore">0</string>
+    <string name="PlayerTwoName">Name</string>
+    <string name="black_bg">black_bg</string>
+    <string name="PlayerTwoScore">0</string>
+    <string name="white_bg">white_bg</string>
+    <string name="your_name">Your Name</string>
+    <string name="game_over">game over</string>
+    <string name="white_player_score">white_player_score</string>
+    <string name="black_player_score">black_player_score</string>
+    <string name="play_again">play_again</string>
+    <string name="main_menu">main_menu</string>
+    <string name="welcome">welcome</string>
+    <string name="statsheader">statsheader</string>
+    <string name="todo">TODO</string>
+    <string name="empty">--</string>
+    <string name="name">name</string>
+    <string name="first_instruc">Each Othello piece has a black side and a white side. On your turn,
+        you place one piece on the board with your color facing up. You must place the piece so that an opponent\'s piece,
+        or a row of opponent's pieces, is flanked by your pieces. All of the opponent's pieces between your pieces are then
+        turned over to become your color.  </string>
+    <string name="second_instruc">For example, suppose you are White, and there is a row of black pieces with one white piece on its end. </string>
+    <string name="third_instruc">You can place a white piece on the other end of the black row and capture the black pieces. </string>
+    <string name="fourth_instruc">The objective of the game is to own more pieces than your opponent when the game is over. The game is over when neither player has a move. Usually, this means the board is full.
+</string>
+    <string name="fifth_instruc">You can capture vertical, horizontal, and diagonal rows of pieces. Also, you can capture more than one row at once. In the picture below,
+        if white places a piece where the red arrow is pointing, then all the black pieces in the three rows indicated by red lines will be captured. </string>
+    <string name="sixth_instruc">Beware! Taking as many of your opponent\'s pieces as you can in one move is not always a good idea. </string>
+    <item name="xpos" type="id" />
+    <item name="ypos" type="id" />
+
+    <string name="winScore">0</string>
+
+
+</resources>
